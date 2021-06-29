@@ -5,11 +5,18 @@
 ##### Author : Rujeena Al-zyoud
 -----------------------------------------------------
 ##### Here you can check the deployment for class-01 assignment:
-[deployment for this dev branch.](https://rujeena-server-deploy-prod.herokuapp.com/)
+
+
+[deployment for this dev branch.](https://rujeena-server-deploy-dev.herokuapp.com/)
+--------------------------------------------
+[deployment for prod main(master).](https://rujeena-server-deploy-prod.herokuapp.com/)
+-----------------------------------------------------
 
 [PR](https://github.com/rujeenaal-zyoud/server-deployment-practice/pull/1)
+------------------------------------------------
 
 [Test](https://github.com/rujeenaal-zyoud/server-deployment-practice/actions/workflows/node.js.yml)
+------------------------------------------------------
 
 -----------------------------------------------------
 ### Setup
